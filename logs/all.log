@@ -1,0 +1,40 @@
+2022-04-12 11:34:38:3438 [32minfo[39m: [32mServer is running on port 3000[39m
+2022-04-12 11:35:29:3529 [32minfo[39m: [32mChecking the API status: Everything is OK[39m
+2022-04-12 11:35:29:3529 [35mhttp[39m: [35m::1 GET /api/status 200 54 - 11.996 ms[39m
+[35m[39m
+2022-04-12 11:35:29:3529 [35mhttp[39m: [35m::1 GET /favicon.ico 404 150 - 1.307 ms[39m
+[35m[39m
+2022-04-12 11:36:09:369 [32minfo[39m: [32mServer is running on port 3000[39m
+2022-04-12 11:36:11:3611 [32minfo[39m: [32mChecking the API status: Everything is OK[39m
+2022-04-12 11:36:11:3611 [35mhttp[39m: [35m::1 GET /api/status 304 - - 7.186 ms[39m
+[35m[39m
+2022-04-12 11:40:31:4031 [32minfo[39m: [32mServer is running on port 3000[39m
+2022-04-12 11:40:34:4034 [32minfo[39m: [32mChecking the API status: Everything is OK[39m
+2022-04-12 11:40:34:4034 [35mhttp[39m: [35m::1 GET /api/status 400 54 - 6.329 ms[39m
+[35m[39m
+2022-04-12 11:48:15:4815 [32minfo[39m: [32mServer is running on port 3000[39m
+2022-04-12 11:48:16:4816 [32minfo[39m: [32mServer is running on port 3000[39m
+2022-04-12 11:48:23:4823 [32minfo[39m: [32mServer is running on port 3000[39m
+2022-04-12 11:48:26:4826 [32minfo[39m: [32mChecking the API status: Everything is OK[39m
+2022-04-12 11:48:26:4826 [35mhttp[39m: [35m::1 [GET] /api/status 400 54 - 8.577 ms[39m
+[35m[39m
+2022-04-12 12:16:34:1634 [32minfo[39m: [32mServer is running on port 3000[39m
+2022-04-12 12:16:44:1644 [31merror[39m: [31maxios is not defined[39m
+2022-04-12 12:16:44:1644 [35mhttp[39m: [35m::1 [GET] /crypto 500 21 - 6.265 ms[39m
+[35m[39m
+2022-04-12 12:17:39:1739 [32minfo[39m: [32mServer is running on port 3000[39m
+2022-04-12 12:17:46:1746 [35mhttp[39m: [35m::1 [GET] /crypto 200 1026119 - 1573.566 ms[39m
+[35m[39m
+2022-04-12 12:28:20:2820 [35mhttp[39m: [35m::1 [GET] /crypto 200 1026252 - 1307.249 ms[39m
+[35m[39m
+2022-04-12 12:28:35:2835 [32minfo[39m: Server is running on port 3000
+2022-04-12 12:28:36:2836 [32minfo[39m: Server is running on port 3000
+2022-04-12 12:28:41:2841 [35mhttp[39m: ::1 [GET] /crypto 200 1026241 - 1013.391 ms
+
+2022-04-12 12:30:31:3031 [32minfo[39m: [32mServer is running on port 3000[39m
+2022-04-12 12:30:31:3031 [32minfo[39m: [32mServer is running on port 3000[39m
+2022-04-12 12:31:21:3121 [32minfo[39m: [32mServer is running on port 3000[39m
+2022-04-12 12:33:16:3316 [35mhttp[39m: [35m::1 [GET] /api/status status=404 149 - 4.524 ms[39m
+[35m[39m
+2022-04-12 12:33:26:3326 [35mhttp[39m: [35m::1 [GET] /crypto status=200 1026159 - 1936.936 ms[39m
+[35m[39m
